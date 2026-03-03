@@ -30,8 +30,8 @@ header {
     margin-top: 0;
     text-align: center;
     padding: 1em 1em 1em 1em;
-    background-color: rgba(135, 22, 135, 0.5);
-    border: 5px solid #3a0671;
+    background-color: rgba(141, 116, 216, 0.5);
+    border: 5px solid rgba(97, 93, 214, 0.5);
 }
 h2 img{
 	width: 300px;
